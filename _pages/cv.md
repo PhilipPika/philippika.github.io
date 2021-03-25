@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Studies, ETH Zuich (Switzerland), 2012
+* M.S. in Environmental Studies, ETH Zuich (Switzerland), 2014
+* Ph.D in Exploring the regional and global pattern in organic matter reactivity and its influence on benthic biogeochemical dynamics, Universite libre de Bruxelles (Belgium), 2020
 
 Work experience
 ======
@@ -22,11 +22,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
